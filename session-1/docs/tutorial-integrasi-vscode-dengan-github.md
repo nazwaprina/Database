@@ -1,5 +1,9 @@
 # Tutorial Mengintegrasikan VS Code dengan GitHub
 ## Step 1: Install VS Code Terlebih Dahulu
+### Buka Website Resmi VS Code untuk Melihat Instruksinya
+Klik link ini: http://code.visualstudio.com/docs/setup/linux
+ <img width="778" height="299" alt="image" src="https://github.com/user-attachments/assets/a1a72daa-66a0-49f6-b6d6-1dfdb84a00f3" />
+
 ### Update Sistem 
 ```
 sudo apt update
