@@ -52,21 +52,21 @@ git --version
 ```
 <img width="496" height="35" alt="image" src="https://github.com/user-attachments/assets/fb5d3b47-7ee4-4029-9c3b-dff313a037e5" />
 
-Jika Git sudah terinstal dengan benar, akan muncul informasi versi Git yang terpasang di komputer kamu.
+Jika Git sudah terinstal dengan benar, akan muncul informasi versi Git yang terpasang di komputer.
 ## Step 3: Konfigurasi Git Awal
-Sebelum mulai, beri tahu Git siapa kamu. Hal ini cuma perlu dilakukan sekali saja.
-Buka Terminal/Git Bash, lalu ketik perintah berikut, ganti Nama Kamu dan emailmu@example.com dengan nama dan email GitHub-mu.
+Sebelum mulai, beri tahu Git Nama dan Email yang akan digunakan. Hal ini cuma perlu dilakukan sekali saja.
+Buka Terminal/Git Bash, lalu ketik perintah berikut, ganti Nama dan email@example.com dengan nama dan email GitHub yang akan digunakan.
 ```
-git config --global user.name "Nama Kamu"
-git config --global user.email "emailmu@example.com"
+git config --global user.name "Nama"
+git config --global user.email "emailexample.com"
 ```
 <img width="657" height="73" alt="image" src="https://github.com/user-attachments/assets/7a489a52-efc0-4300-a37c-416000c506e9" />
 
 ## Step 4: Mengambil Proyek dari GitHub
-* Buka GitHub: Pergi ke halaman repositori yang sudah kamu buat.
+* Buka GitHub: Pergi ke halaman repositori yang sudah dibuat.
 * Salin URL: Klik tombol hijau < > Code, lalu salin URL HTTPS-nya.
-* Buka Terminal/Git Bash: Buka terminal di folder tempat kamu ingin menyimpan proyek.
-* Jalankan Perintah clone: Ketik git clone diikuti dengan URL yang sudah kamu salin tadi.
+* Buka Terminal/Git Bash: Buka terminal di folder tempat yang akandigunakan untuk menyimpan proyek.
+* Jalankan Perintah clone: Ketik git clone diikuti dengan URL yang sudah sudah disalin tadi.
 ```
 git clone https://github.com/nama-kamu/nama-proyek.git
 ```
