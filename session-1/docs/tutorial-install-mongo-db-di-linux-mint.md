@@ -1,4 +1,8 @@
 # Tutorial Install MongoDB di Linux Mint
+## Buka Situs Resmi MongoDB Untuk Melihat Instruksi Peng*install*an
+Klil link ini: https://www.mongodb.com/docs/v7.0/tutorial/install-mongodb-on-ubuntu/
+<img width="719" height="481" alt="image" src="https://github.com/user-attachments/assets/513200be-7738-4335-b7d4-316b6507bab9" />
+
 ## Step 1: Update Sistem Terlebih Dahulu
 Ketik:
 ```
