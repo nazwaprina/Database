@@ -1,4 +1,8 @@
 # Tutorial Install MariaDB di Linux Mint 
+## Buka Situs Resmi MariaDB Untuk Melihat Instruksi Peng*install*an
+Klik link ini: https://mariadb.com/docs/server/mariadb-quickstart-guides/installing-mariadb-server-guide
+<img width="706" height="536" alt="image" src="https://github.com/user-attachments/assets/ef419584-dc03-48b6-933f-6302a86124c4" />
+
 ## Step 1: Update Sistem Terlebih Dahulu
 Kita harus memastikan bahwa sistem Linux yang kita gunakan sudah yang terbaru. Buka terminal, ketik:
 
